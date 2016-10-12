@@ -9,7 +9,7 @@ const TARGET = process.env.npm_lifecycle_event;
 
 
 // Common part
-const common = {
+const common = { 
   entry: [
     './src/scss/style.scss',
     './src/js/index.js'

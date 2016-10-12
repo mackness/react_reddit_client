@@ -29,7 +29,10 @@
     "babel-core": "^6.5.2",
     "babel-eslint": "^4.1.8",
     "babel-loader": "^6.2.2",
+    "babel-plugin-transform-react-jsx": "^6.8.0",
     "babel-preset-es2015": "^6.5.0",
+    "babel-preset-react": "^6.16.0",
+    "babel-preset-stage-0": "^6.16.0",
     "css-loader": "^0.23.1",
     "eslint": "^3.7.1",
     "eslint-config-standard": "^6.2.0",
@@ -49,5 +52,14 @@
     "webpack": "^1.12.13",
     "webpack-dev-server": "^1.14.1",
     "webpack-merge": "^0.14.1"
+  },
+  "dependencies": {
+    "i": "^0.3.5",
+    "jquery": "^3.1.1",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "react-router": "^2.8.1",
+    "showdown": "^1.4.3",
+    "simple-ajax": "^2.6.0"
   }
 }
